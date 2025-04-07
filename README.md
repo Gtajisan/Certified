@@ -1,5 +1,6 @@
-#Android certs for Signing...
-**clone**
+# Android certs for Signing...
+***if you using crave then add it into build scripts otherwise ```vendorsetup.sh```***
+
 ```
 git clone https://github.com/Gtajisan/Certified
 ```
